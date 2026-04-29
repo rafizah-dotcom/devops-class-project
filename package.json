@@ -1,0 +1,13 @@
+{
+  "name": "devops-class-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express app for DevOps CI/CD project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests implemented\""
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
