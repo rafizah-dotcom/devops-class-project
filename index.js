@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 app.get('/health', (req, res) => {
     res.json({
         status: 'OK',
-        message: 'Application is healthy'
+        message: 'App is healthy and running'
     });
 });
 
